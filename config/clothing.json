@@ -1,0 +1,139 @@
+{
+    "Active": true,
+    "StackMult": 1,
+    "List": [
+        {
+            "name": "Army cap",
+            "_id": "59e770f986f7742cbe3164ef",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (Black)",
+            "_id": "603618feffd42c541047f771",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (Coyote Tan)",
+            "_id": "603619720ca681766b6a0fc4",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (Flora)",
+            "_id": "60361a7497633951dc245eb4",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (Desert)",
+            "_id": "60361b0b5a45383c122086a1",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (UCP)",
+            "_id": "60361b5a9a15b10d96792291",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Army cap (CADPAT)",
+            "_id": "6040de02647ad86262233012",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "BEAR baseball cap (Green)",
+            "_id": "5aa2b87de5b5b00016327c25",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "BEAR baseball cap (Black)",
+            "_id": "5b40e5e25acfc4001a599bea",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "BOSS cap",
+            "_id": "60a7acf20c5cb24b01346648",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Baseball cap",
+            "_id": "572b7d8524597762b472f9d1",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "USEC baseball cap (Black)",
+            "_id": "5b40e61f5acfc4001a599bec",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "USEC baseball cap (Tan)",
+            "_id": "5aa2a7e8e5b5b00016327c16",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Beanie",
+            "_id": "572b7fa124597762b472f9d2",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Tactical fleece beanie",
+            "_id": "5aa2ba19e5b5b00014028f4e",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "UX PRO beanie",
+            "_id": "5aa2ba46e5b5b000137b758d",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Kotton beanie",
+            "_id": "5bd073c986f7747f627e796c",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Rivals 2020 beanie",
+            "_id": "5f994730c91ed922dd355de3",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Bomber beanie",
+            "_id": "60bf74184a63fc79b60c57f6",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Beret (Black)",
+            "_id": "5f60e6403b85f6263c14558c",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Beret (Blue)",
+            "_id": "5f60e7788adaa7100c3adb49",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Beret (Olive)",
+            "_id": "5f60e784f2bcbb675b00dac7",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        }
+    ]
+}

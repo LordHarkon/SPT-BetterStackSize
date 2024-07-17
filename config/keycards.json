@@ -1,0 +1,11 @@
+{
+    "Active": true,
+    "StackMult": 1,
+    "ParentList": [
+        {
+            "name": "Keycard",
+            "_id": "5c164d2286f774194c5e69fa",
+            "StackMaxSize": 8
+        }
+    ]
+}

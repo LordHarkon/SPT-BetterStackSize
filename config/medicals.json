@@ -1,0 +1,193 @@
+{
+    "Active": true,
+    "StackMult": 1,
+    "List": [
+        {
+            "name": "Morphine injector",
+            "_id": "544fb3f34bdc2d03748b456a",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Propital regenerative stimulant injector",
+            "_id": "5c0e530286f7747fa1419862",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "SJ1 TGLabs combat stimulant injector",
+            "_id": "5c0e531286f7747fa54205c2",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "SJ6 TGLabs combat stimulant injector",
+            "_id": "5c0e531d86f7747fa23f4d42",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Zagustin hemostatic drug injector",
+            "_id": "5c0e533786f7747fa23f4d47",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "eTG-change regenerative stimulant injector",
+            "_id": "5c0e534186f7747fa1419867",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Adrenaline injector",
+            "_id": "5c10c8fd86f7743d7d706df3",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "3-(b-TG) stimulant injector",
+            "_id": "5ed515c8d380ab312177c0fa",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "L1 (Norepinephrine) injector",
+            "_id": "5ed515e03a40a50460332579",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "P22 (Product 22) stimulant injector",
+            "_id": "5ed515ece452db0eb56fc028",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "AHF1-M stimulant injector",
+            "_id": "5ed515f6915ec335206e4152",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Meldonin injector",
+            "_id": "5ed5160a87bb8443d10680b5",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "M.U.L.E. stimulant injector",
+            "_id": "5ed51652f6c34d2cc26336a1",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "'Obdolbos' cocktail injector",
+            "_id": "5ed5166ad380ab312177c100",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "xTG-12 antidote injector",
+            "_id": "5fca138c2a7b221b2852a5c6",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "SJ9 TGLabs combat stimulant injector",
+            "_id": "5fca13ca637ee0341a484f46",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "'Obdolbos 2' cocktail injector",
+            "_id": "637b60c3b7afa97bfc3d7001",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "SJ12 TGLabs combat stimulant injector",
+            "_id": "637b612fb7afa97bfc3d7005",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "PNB (Product 16) stimulant injector",
+            "_id": "637b6179104668754b72f8f5",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Trimadol stimulant injector",
+            "_id": "637b620db7afa97bfc3d7009",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Perfotoran (Blue Blood) stimulant injector",
+            "_id": "637b6251104668754b72f8f9",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "AI-2 medkit",
+            "_id": "5755356824597772cb798962",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Analgin painkillers",
+            "_id": "544fb37f4bdc2dee738b4567",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Army bandage",
+            "_id": "5751a25924597722c463c472",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Aseptic bandage",
+            "_id": "544fb25a4bdc2dfb738b4567",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "CALOK-B hemostatic applicator",
+            "_id": "5e8488fa988a8701445df1e4",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "CAT hemostatic tourniquet",
+            "_id": "60098af40accd37ef2175f27",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Esmarch tourniquet",
+            "_id": "5e831507ea0a7c419c2f9bd9",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Golden Star balm",
+            "_id": "5751a89d24597722aa0e8db0",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Salewa first aid kit",
+            "_id": "544fb45d4bdc2dee738b4568",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Vaseline balm",
+            "_id": "5755383e24597772cb798966",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        }
+    ]
+}

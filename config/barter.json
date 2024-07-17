@@ -1,0 +1,649 @@
+{
+    "Active": true,
+    "StackMult": 1,
+    "List": [
+        {
+            "name": "#FireKlean gun lube",
+            "_id": "5bc9b355d4351e6d1509862a",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "AA Battery",
+            "_id": "5672cb124bdc2d1a0f8b4568",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "AG guitar pick",
+            "_id": "638df4cc7b560b03794a18d2",
+            "_props": {
+                "StackMaxSize": 40
+            }
+        },{
+            "name": "Apollo Soyuz cigarettes",
+            "_id": "573475fb24597737fb1379e1",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Malboro Cigarettes",
+            "_id": "573476d324597737da2adc13",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Wilston cigarettes",
+            "_id": "573476f124597737e04bf328",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Strike Cigarettes",
+            "_id": "5734770f24597738025ee254",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Cordura polyamide fabric",
+            "_id": "5e2af41e86f774755a234b67",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Fleece fabric",
+            "_id": "5e2af47786f7746d404f3aaa",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Ripstop fabric",
+            "_id": "5e2af4a786f7746d3f3c3400",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Aramid fiber fabric",
+            "_id": "5e2af4d286f7746d4159f07a",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Awl",
+            "_id": "62a0a098de7ac8199358053b",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Battered antique book",
+            "_id": "5bc9c049d4351e44f824d360",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Blood sample",
+            "_id": "5a687e7886f7740c4a5133fb",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "Bolts",
+            "_id": "57347c5b245977448d35f6e1",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "Bottle of saline solution",
+            "_id": "59e3606886f77417674759a5",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Bottle of hydrogen peroxide",
+            "_id": "59e361e886f774176c10a2a5",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Broken GPhone X smartphone",
+            "_id": "5c1265fc86f7743f896a21c2",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Broken GPhone smartphone",
+            "_id": "56742c324bdc2d150f8b456d",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Broken LCD",
+            "_id": "5d1b309586f77425227d1676",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Bronze pocket watch on a chain",
+            "_id": "5937fd0086f7742bf33fc198",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Bundle of wires",
+            "_id": "5c06779c86f77426e00dd782",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Capacitors",
+            "_id": "5c06782b86f77426df5407d2",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "Chain with Prokill medallion",
+            "_id": "5c1267ee86f77416ec610f72",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Chainlet",
+            "_id": "573474f924597738002c6174",
+            "_props": {
+                "StackMaxSize": 12
+            }
+        },{
+            "name": "Classic matches",
+            "_id": "57347b8b24597737dd42e192",
+            "_props": {
+                "StackMaxSize": 12
+            }
+        },{
+            "name": "Crickent lighter",
+            "_id": "56742c284bdc2d98058b456d",
+            "_props": {
+                "StackMaxSize": 12
+            }
+        },{
+            "name": "D Size battery",
+            "_id": "5672cb304bdc2dc2088b456a",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "DVD drive",
+            "_id": "5734781f24597737e04bf32a",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Damaged hard drive",
+            "_id": "590a386e86f77429692b27ab",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Disposable syringe",
+            "_id": "5d1b3f2d86f774253763b735",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Duct tape",
+            "_id": "57347c1124597737fb1379e3",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Insulating tape",
+            "_id": "5734795124597738002c6176",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Electronic components",
+            "_id": "6389c70ca33d8c4cdf4932c6",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Energy-saving lamp",
+            "_id": "590a3cd386f77436f20848cb",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Ultraviolet lamp",
+            "_id": "590a3d9c86f774385926e510",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Flat screwdriver",
+            "_id": "5d63d33b86f7746ea9275524",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Flat screwdriver (Long)",
+            "_id": "5d4042a986f7743185265463",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "GP coin",
+            "_id": "5d235b4d86f7742e017bc88a",
+            "_props": {
+                "StackMaxSize": 40
+            }
+        },{
+            "name": "Gas analyzer",
+            "_id": "590a3efd86f77437d351a25b",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Geiger-Muller counter",
+            "_id": "5672cb724bdc2dc2088b456b",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Gold pocket watch on a chain",
+            "_id": "590de92486f77423d9312a33",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Golden 1GPhone smartphone",
+            "_id": "5bc9b720d4351e450201234b",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Golden Zibbo lighter",
+            "_id": "5939a00786f7742fe8132936",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Golden neck chain",
+            "_id": "5734758f24597738025ee253",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "GreenBat lithium battery",
+            "_id": "5e2aedd986f7746d404f3aa4",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Hunting matches",
+            "_id": "5e2af2bc86f7746d3f3c33fc",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "LEDX Skin Transilluminator",
+            "_id": "5c0530ee86f774697952d952",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Light bulb",
+            "_id": "5d1b392c86f77425243e98fe",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Magnet",
+            "_id": "590a391c86f774385a33c404",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Medical bloodset",
+            "_id": "5b4335ba86f7744d2837a264",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Medical tools",
+            "_id": "619cc01e0a7c3a1a2731940c",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Metal cutting scissors",
+            "_id": "5d40419286f774318526545f",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Metal spare parts",
+            "_id": "61bf7b6302b3924be92fa8c3",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Military corrugated tube",
+            "_id": "619cbf476b8a1b37a54eebf8",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Military power filter",
+            "_id": "5d0378d486f77420421a5ff4",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Nippers",
+            "_id": "5d40425986f7743185265461",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "OFZ 30x160mm shell",
+            "_id": "5d0379a886f77420407aa271",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Old firesteel",
+            "_id": "5bc9c377d4351e3bac12251b",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Ortodontox toothpaste",
+            "_id": "5d4041f086f7743cac3f22a7",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "PC CPU",
+            "_id": "573477e124597737dd42e191",
+            "_props": {
+                "StackMaxSize": 12
+            }
+        },{
+            "name": "Pack of chlorine",
+            "_id": "5e2af02c86f7746d420957d4",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Pack of nails",
+            "_id": "590c31c586f774245e3141b2",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Pack of screws",
+            "_id": "59e35ef086f7741777737012",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Pack of sodium bicarbonate",
+            "_id": "59e35abd86f7741778269d82",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Paramedic's GPhone X",
+            "_id": "64f09c02b63b74469b6c149f",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Phase control relay",
+            "_id": "5d1b313086f77425227d1678",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Physical Bitcoin",
+            "_id": "59faff1d86f7746c51718c9c",
+            "_props": {
+                "StackMaxSize": 20
+            }
+        },{
+            "name": "Piece of plexiglass",
+            "_id": "59e366c186f7741778269d85",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Pile of meds",
+            "_id": "5d1b3a5d86f774252167ba22",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Pipe grip wrench",
+            "_id": "619cbfccbedcde2f5b3f7bdd",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Pliers",
+            "_id": "590c2b4386f77425357b6123",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Pliers Elite",
+            "_id": "5af04b6486f774195a3ebb49",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Power cord",
+            "_id": "59e36c6f86f774176c10a2a7",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Press pass (issued for NoiceGuy)",
+            "_id": "62a09cb7a04c0c5c6e0a84f8",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Printed circuit board",
+            "_id": "590a3b0486f7743954552bdb",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Printer paper",
+            "_id": "577e1c9d2459773cd707c525",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "RAM",
+            "_id": "57347baf24597738002c6178",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Radiator helix",
+            "_id": "5d1c774f86f7746d6620f8db",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Ratchet wrench",
+            "_id": "60391afc25aff57af81f7085",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Roler Submariner gold wrist watch",
+            "_id": "59faf7ca86f7740dbe19f6c2",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Round pliers",
+            "_id": "5d1b31ce86f7742523398394",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Screw nuts",
+            "_id": "57347c77245977448d35f6e2",
+            "_props": {
+                "StackMaxSize": 10
+            }
+        },{
+            "name": "Screwdriver",
+            "_id": "590c2d8786f774245b1f03f3",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Sewing kit",
+            "_id": "61bf83814088ec1a363d7097",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Silicone tube",
+            "_id": "5d1b39a386f774252339976f",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Silver pocket watch on a chain",
+            "_id": "5937fc6786f7742cab753590",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Spark plug",
+            "_id": "590a3c0a86f774385a33c450",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Syringe with a chemical",
+            "_id": "593a87af86f774122f54a951",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Tetriz portable game console",
+            "_id": "5c12620d86f7743f8b198b72",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Toothpaste",
+            "_id": "57347c93245977448d35f6e3",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Tube of Poxeram cold welding",
+            "_id": "5e2af22086f7746d3f3c33fa",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "UZRGM grenade fuze",
+            "_id": "5e2af51086f7746d3f3c3402",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "VPX Flash Storage Module",
+            "_id": "5c05300686f7746dce784e5d",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Veritas guitar pick",
+            "_id": "5f745ee30acaeb0d490d8c5b",
+            "_props": {
+                "StackMaxSize": 20
+            }
+        },{
+            "name": "WD-40 (100ml)",
+            "_id": "590c5bbd86f774785762df04",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "WD-40 (400ml)",
+            "_id": "590c5c9f86f77477c91c36e7",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Weapon parts",
+            "_id": "5d1c819a86f774771b0acd6c",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Working LCD",
+            "_id": "5d1b304286f774253763a528",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Working hard drive",
+            "_id": "5a29276886f77435ed1b117c",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Working hard drive",
+            "_id": "628393620d8524273e7eb028",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Working hard drive",
+            "_id": "638dfc803083a019d447768e",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Wrench",
+            "_id": "590c311186f77424d1667482",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Zibbo lighter",
+            "_id": "56742c2e4bdc2d95058b456d",
+            "_props": {
+                "StackMaxSize": 8
+            }
+        },{
+            "name": "Dry Fuel",
+            "_id": "60391a8b3364dc22b04d0ce5",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "OScope",
+            "_id": "5af0534a86f7743b6f354284",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "SurvL Survivor Lighter",
+            "_id": "5e2af37686f774755a234b65",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        }
+    ]
+}

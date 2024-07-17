@@ -1,0 +1,683 @@
+{
+    "Active": true,
+    "StackMult": 1,
+    "ParentList": [
+        {
+            "name": "Barrel",
+            "_id": "555ef6e44bdc2de9068b457e",
+            "StackMaxSize": 2
+        },
+        {
+            "name": "Charge",
+            "_id": "55818a6f4bdc2db9688b456b",
+            "StackMaxSize": 3
+        },
+        {
+            "name": "Foregrip",
+            "_id": "55818af64bdc2d5b648b4570",
+            "StackMaxSize": 2
+        },
+        {
+            "name": "Silencer",
+            "_id": "550aa4cd4bdc2dd8348b456c",
+            "StackMaxSize": 3
+        },
+        {
+            "name": "FlashHider",
+            "_id": "550aa4bf4bdc2dd6348b456b",
+            "StackMaxSize": 3
+        },
+        {
+            "name": "MuzzleCombo",
+            "_id": "550aa4dd4bdc2dc9348b4569",
+            "StackMaxSize": 3
+        },
+        {
+            "name": "AuxiliaryMod",
+            "_id": "5a74651486f7744e73386dd1",
+            "StackMaxSize": 4
+        },
+        {
+            "name": "TacticalCombo",
+            "_id": "55818b164bdc2ddc698b456c",
+            "StackMaxSize": 2
+        },
+        {
+            "name": "Gasblock",
+            "_id": "56ea9461d2720b67698b456f",
+            "StackMaxSize": 2
+        },
+        {
+            "name": "IronSight",
+            "_id": "55818ac54bdc2d5b648b456e",
+            "StackMaxSize": 2
+        }
+    ],
+    "List": [
+        {
+            "name": "AI AXMC AT X Top Rail ",
+            "_id": "628120c21d5df4475f46a337",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "AI AXMC Adapter Kit medium length rail",
+            "_id": "628120dd308cb521f87a8fa1",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "AI AXMC Adapter Kit short length rail",
+            "_id": "628120d309427b40ab14e76d",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "AKS-74U Zenit B-18 Mount",
+            "_id": "57ffb0062459777a045af529",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Aimpoint LRP mount for CompM4 sights",
+            "_id": "5c7d55f52e221644f31bff6a",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Aimpoint Micro H-2 Standard Mount",
+            "_id": "616554fe50224f204c1da2aa",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Aimpoint Micro Spacer High",
+            "_id": "58d39b0386f77443380bf13c",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Aimpoint Micro Standard Mount",
+            "_id": "58d39d3d86f77445bb794ae7",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Aimpoint QRP2 mount for CompM4/PRO sights",
+            "_id": "616584766ef05c2ce828ef57",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Aimpoint Standard Spacer",
+            "_id": "5c7d560b2e22160bc12c6139",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Alexander Arms 10 inch rail",
+            "_id": "5b30bc285acfc47a8608615d",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Alexander Arms 3 inch rail",
+            "_id": "5b30bc165acfc40016387293",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Armasight Vulcan universal base",
+            "_id": "5b3b6dc75acfc47a8773fb1e",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Armasight Zeus universal base",
+            "_id": "63fc449f5bd61c6cf3784a88",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Benelli M3 Super 90 upper receiver top rail",
+            "_id": "625ed7c64d9b6612df732146",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Burris FastFire Weaver Base",
+            "_id": "577d128124597739d65d0e56",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "CNC Guns KeyMod 2 inch rail",
+            "_id": "623c2f652febb22c2777d8d7",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "CNC Guns KeyMod 4 inch rail",
+            "_id": "623c2f4242aee3103f1c44b7",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Custom Guns handguard rail",
+            "_id": "6086b5392535c57a13424d70",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "DeltaPoint Cross Slot Mount base",
+            "_id": "58d2664f86f7747fec5834f6",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "ETMI-019 shotgun rail mount",
+            "_id": "5dfe14f30b92095fd441edaf",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "FN Five-seveN MK2 RMR mount",
+            "_id": "5d7b6bafa4b93652786f4c76",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "FN P90 EFFEN 90 receiver rail",
+            "_id": "5cc7012ae4a949001252b43e",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "FN P90 upper receiver side rail",
+            "_id": "5cc70146e4a949000d73bf6b",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "FN P90 upper receiver top rail",
+            "_id": "5cc7015ae4a949001152b4c6",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "FN SCAR bottom rail",
+            "_id": "61816df1d3a39d50044c139e",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "FN SCAR side rail",
+            "_id": "61816dfa6ef05c2ce828f1ad",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Geissele Super Precision top ring cap",
+            "_id": "618b9671d14d6d5ab879c5ea",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Geissele Super Precision top ring cap (DDC)",
+            "_id": "618ba91477b82356f91ae0e8",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Glock TangoDown AAM-01 ACRO mount base",
+            "_id": "615d8da4d3a39d50044c10e8",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "HK G36 bottom handguard rail",
+            "_id": "62444cb99f47004c781903eb",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "HK G36 side handguard rail",
+            "_id": "62444cd3674028188b052799",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "HK MP5 MFI HK universal low profile scope mount",
+            "_id": "5926dad986f7741f82604363",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "HK UMP bottom handguard rail",
+            "_id": "5fc53954f8b6a877a729eaeb",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "HK UMP side handguard rail",
+            "_id": "5fc5396e900b1d5091531e72",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "HK USP rail adapter",
+            "_id": "6196255558ef8c428c287d1c",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Hensoldt RIS top rail",
+            "_id": "622efdf8ec80d870d349b4e5",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Hexagon medium length rail",
+            "_id": "5b800ebc86f774394e230a90",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Hexagon medium length rail (Anodized Red)",
+            "_id": "5b8403a086f7747ff856f4e2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Hexagon short length rail",
+            "_id": "5b800ed086f7747baf6e2f9e",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Hexagon short length rail (Anodized Red)",
+            "_id": "5b84038986f774774913b0c1",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "KAC URX 3 3 inch rail",
+            "_id": "5d133067d7ad1a33013f95b4",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "KRISS Vector bottom rail",
+            "_id": "5fbb976df9986c4cff3fe5f2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "KRISS Vector side rail",
+            "_id": "5fce0f9b55375d18a253eff2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Kiba Arms SPRM rail mount for pump-action shotguns",
+            "_id": "55d48a634bdc2d8b2f8b456a",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Kiba Arms Short Mount sight adapter",
+            "_id": "5c1cdd302e221602b3137250",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "LaRue LT101 QD Tactical Picatinny Riser mount",
+            "_id": "5c064c400db834001d23f468",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M14 A.R.M.S. #18 scope mount",
+            "_id": "5addbfe15acfc4001a5fc58b",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M14 Leapers UTG 4-Point Locking Deluxe mount",
+            "_id": "5addbfef5acfc400185c2857",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M1911A1 NcSTAR trigger guard mount",
+            "_id": "5ef369b08cef260c0642acaf",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M1911A1 Weigand Weig-a-tinny rail mount",
+            "_id": "5ef5d994dfbc9f3c660ded95",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M700 AB Arms MOD*X rail mount",
+            "_id": "5cde7b43d7f00c000d36b93e",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "M700 extended multi-slot Weaver rail base",
+            "_id": "5bfebc530db834001d23eb65",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "M870 Leapers UTG PRO MTU-028SG rail",
+            "_id": "5a7893c1c585673f2b5c374d",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "M870 XS SHOTRAIL rail with Ghost Ring rear sight",
+            "_id": "5a78948ec5856700177b1124",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MP-155 Ultima short rail",
+            "_id": "607ea812232e5a31c233d53c",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MP-155 Ultima top rail",
+            "_id": "60785ce5132d4d12c81fd918",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MP-18 sight mount",
+            "_id": "61f804acfcba9556ea304cb8",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MP9 bottom rail",
+            "_id": "5de8fbf2b74cd90030650c79",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MP9 side rail",
+            "_id": "5de8fc0b205ddc616a6bc51b",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MPX GEN1 handguard 2 inch rail",
+            "_id": "58a56f8d86f774651579314c",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "MPX GEN1 handguard 4 inch rail",
+            "_id": "58a5c12e86f7745d585a2b9e",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Magpul M-LOK 2.5 inch rail",
+            "_id": "5b7be47f5acfc400170e2dd2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Magpul M-LOK 4.1 inch rail",
+            "_id": "5b7be4895acfc400170e2dd5",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Magpul M-LOK Cantilever Mount",
+            "_id": "6269220d70b6c02e665f2635",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Magpul M-LOK Offset Light Mount",
+            "_id": "6269545d0e57f218e4548ca2",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Mosin Rifle AIM Sports MNG rail mount",
+            "_id": "5bc5a372d4351e44f824d17f",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "NcSTAR MPR45 Backup mount",
+            "_id": "5649a2464bdc2d91118b45a8",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "ORSIS T-5000M long length rail",
+            "_id": "5df35ea9c41b2312ea3334d8",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "ORSIS T-5000M medium length rail",
+            "_id": "5df35eb2b11454561e3923e2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "ORSIS T-5000M scope mount",
+            "_id": "5df35e970b92095fd441e4d2",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Ops-Core Picatinny Rail Adapter mount",
+            "_id": "5a398b75c4a282000a51a266",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "P226 Trijicon RMR mount",
+            "_id": "5a32aa0cc4a28232996e405f",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "PK Zenit B-50 16mm top mount",
+            "_id": "6492c6dd60fdb10a020621a2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "PK Zenit B-50 66mm top mount",
+            "_id": "6492c8bba6e68e06fb0bae87",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "PNV-10T dovetail adapter",
+            "_id": "5c0695860db834001b735461",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Precision Reflex handguard bottom rail mount",
+            "_id": "6388c4ac8d895f557a0c6515",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Precision Reflex handguard long top rail mount",
+            "_id": "6388c5d19c00405f4717c0f0",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Precision Reflex handguard short side rail mount",
+            "_id": "6388c4478d895f557a0c6512",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "RFB handguard rail mount",
+            "_id": "5f2aa493cd375f14e15eea72",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "RFB scope rail mount",
+            "_id": "5f2aa49f9b44de6b1b4e68d4",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "RPK-16 handguard rail",
+            "_id": "5beecbb80db834001d2c465e",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Remington RAHG 2 inch rail",
+            "_id": "5c0102aa0db834001b734ba1",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Remington RAHG 4 inch rail",
+            "_id": "5c0102b20db834001d23eebc",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "SR-2M Zenit B-17 mount",
+            "_id": "62e281349ecd3f493f6df954",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "SR-2M short side rail",
+            "_id": "62ed189fb3608410ef5a2bfc",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "SR-2M side rail",
+            "_id": "62ed1921b3608410ef5a2c04",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Steyr AUG A3 M1 low sight mount",
+            "_id": "62ebba1fb658e07ef9082b5a",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Strike Industries KeyMod 4 inch rail",
+            "_id": "5a9d6d00a2750c5c985b5305",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Strike Industries KeyMod 6 inch rail",
+            "_id": "5a9d6d13a2750c00164f6b03",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Strike Industries TRAX bridge rail",
+            "_id": "5a9d6d21a2750c00137fa649",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "TOZ-106 dovetail mount",
+            "_id": "5c6162682e22160010261a2b",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "TROY QARS 3.2 inch rail",
+            "_id": "5b4736a986f774040571e998",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "TROY QARS 4.2 inch rail",
+            "_id": "5b4736b986f77405cb415c10",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Trijicon RMR low profile mount",
+            "_id": "5a33b2c9c4a282000c5a9511",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Trijicon RMR mount for ACOG scopes",
+            "_id": "5a33bab6c4a28200741e22f8",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Trijicon TA51 sight mount",
+            "_id": "59db7eed86f77461f8380365",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "VPO-215 'Gornostay' scope rail mount",
+            "_id": "5de6558e9f98ac2bc65950fc",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV 2 inch rail",
+            "_id": "5b7be4575acfc400161d0832",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV 4 inch rail",
+            "_id": "5b7be4645acfc400170e2dcc",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV 5 inch rail",
+            "_id": "5b7be46e5acfc400170e2dcf",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV KeyMod 2 inch rail",
+            "_id": "59e0bdb186f774156f04ce82",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV KeyMod 4 inch rail",
+            "_id": "59e0be5d86f7742d48765bd2",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        },{
+            "name": "Vltor CASV KeyMod 6 inch rail",
+            "_id": "59e0bed186f774156f04ce84",
+            "_props": {
+                "StackMaxSize": 3
+            }
+        }
+    ]
+}
