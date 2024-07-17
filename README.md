@@ -1,11 +1,7 @@
-# SPT-VCT (Variable Construction Time)
+# SPT-BST (Better Stack Size)
 
-This mod allows you to adjust the construction speed of your hideout buildings.
+Have you ever wished that certain items could stack? The AA Battery, for example, is too small to occupy an entire slot. This mod reworks item stacking to make it more realistic.
 
-By default, the mod reduces construction time to 10% of the normal duration. You can customize this setting in the config.json file.
+Introducing the [True Items](https://hub.sp-tarkov.com/files/file/1651-true-items/) mod, updated for SPT 3.9.x with improved stack sizes. If you prefer the old stack sizes, you can still copy them from the original True Items mod.
 
-Additionally, you can set a multiplier for each building individually, which will override the global multiplier.
-
-Multiplier values in the config file are in percentages. For example, to make buildings construct 50% slower, set the multiplier to 150.
-
-Please ensure the multiplier is set to a positive value. Setting it too high may cause unintended issues in the game. Use at your own risk.
+**Warning:** Ensure this mod loads last if you have other mods that modify stack sizes.
