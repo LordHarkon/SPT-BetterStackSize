@@ -1,4 +1,4 @@
-# SPT-BST (Better Stack Size)
+# SPT-BSS (Better Stack Size)
 
 Have you ever wished that certain items could stack? The AA Battery, for example, is too small to occupy an entire slot. This mod reworks item stacking to make it more realistic.
 
