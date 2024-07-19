@@ -66,23 +66,20 @@ export class BetterStackSize
         stackMult: number
     ): void
     {
-        Object.keys(this.items).forEach((itemKey) =>
-        {
-            const item: ITemplateItem = this.items[itemKey];
+        const item: ITemplateItem = this.items[id];
 
-            if (
-                !item._props ||
-                (isParent && item._parent != id) ||
-                item._id != id ||
-                !item._props.StackMaxSize ||
-                (isMedical && !item._props.MaxHpResource) ||
-                (isMedical && item._props.MaxHpResource > 0)
-            )
-                return;
+        if (
+            !item._props ||
+            (isParent && item._parent != id) ||
+            item._id != id ||
+            item._props.StackMaxSize === undefined ||
+            (isMedical && item._props.MaxHpResource === undefined) ||
+            (isMedical && item._props.MaxHpResource > 0)
+        )
+            return;
 
-            item._props.StackMaxSize = stackMaxSize * stackMult;
-            item._props.StackMinRandom = 1;
-        });
+        item._props.StackMaxSize = stackMaxSize * stackMult;
+        item._props.StackMinRandom = 1;
     }
 
     private isActive(data: Settings): boolean
