@@ -628,7 +628,7 @@
             }
         },{
             "name": "Dry Fuel",
-            "_id": "60391a8b3364dc22b04d0ce5",
+            "_id": "590a373286f774287540368b",
             "_props": {
                 "StackMaxSize": 4
             }
@@ -641,6 +641,60 @@
         },{
             "name": "SurvL Survivor Lighter",
             "_id": "5e2af37686f774755a234b65",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Gas mask air filter",
+            "_id": "590c595c86f7747884343ad7",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Microcontroller board",
+            "_id": "6389c7750ef44505c87f5996",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Military circuit board",
+            "_id": "5d0376a486f7747d8050965c",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "UHF RFID Reader",
+            "_id": "5c052fb986f7746b2101e909",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Virtex programmable processor",
+            "_id": "5c05308086f7746b2101e90b",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "Portable power bank",
+            "_id": "5af0561e86f7745f5f3ad6ac",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Rechargeable battery",
+            "_id": "590a358486f77429692b2790",
+            "_props": {
+                "StackMaxSize": 2
+            }
+        },{
+            "name": "TP-200 TNT brick",
+            "_id": "60391b0fb847c71012789415",
+            "_props": {
+                "StackMaxSize": 4
+            }
+        },{
+            "name": "Gold skull ring",
+            "_id": "5d235a5986f77443f6329bc6",
             "_props": {
                 "StackMaxSize": 4
             }

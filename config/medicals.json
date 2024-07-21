@@ -188,6 +188,12 @@
             "_props": {
                 "StackMaxSize": 4
             }
+        },{
+            "name": "Immobilizing splint",
+            "_id": "544fb3364bdc2d34748b456a",
+            "_props": {
+                "StackMaxSize": 2
+            }
         }
     ]
 }
